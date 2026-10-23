@@ -84,6 +84,9 @@ The dataset contains 10,000+ retail transaction records and fields such as Quant
 ## Conclusion
 This project combines data cleaning, exploratory analysis, statistical modeling, and Tableau visualization to identify retail profitability patterns and develop data-driven business recommendations.
 
+## Complete Presentation 
+https://public.tableau.com/app/profile/krishna.krishnaprasad/viz/ProfitabilityDriverAnalysis_Tableau/RetailSalesProfitabilityAnalysis?publish=yes
+
 ## Skills Demonstrated
 - Data cleaning and validation
 - Exploratory data analysis
