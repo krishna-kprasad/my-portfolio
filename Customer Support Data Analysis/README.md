@@ -96,10 +96,13 @@ https://public.tableau.com/app/profile/krishna.krishnaprasad/viz/CustomerSupport
 ## Project Deliverables
 
 - Cleaned customer support dataset (CSV)
+[Cleaned data](<02-Raw and cleaned Data/Customer_Support_Data_Analysis_sample_data_Cleaned Data.csv>)
 - Jupyter Notebook containing data cleaning, analysis, and visualizations
+[Customer support data analysis](<03-Analysis  Report and Key Insights/Customer_Support_Analysis.ipynb>)
 - Tableau dashboard
+https://public.tableau.com/app/profile/krishna.krishnaprasad/viz/CustomerSupportTicketAnalysisTableau/Dashboard1?publish=yes
 - Summary of key findings and actionable recommendations
-[text](<03-Analysis  Report and Key Insights/Customer Support Ticket Analysis Report.docx>)
+[Anlysis & Key insights](<03-Analysis  Report and Key Insights/Customer Support Ticket Analysis Report.docx>)
 ## Limitations
 
 This analysis is based on a small dataset of 25 tickets covering a limited reporting period. The results are exploratory and may not represent overall customer support performance. Additional data collected over a longer period would be needed to validate the findings and identify reliable trends.
