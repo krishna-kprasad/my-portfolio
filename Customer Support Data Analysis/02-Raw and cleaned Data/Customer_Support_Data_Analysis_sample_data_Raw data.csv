@@ -1,0 +1,26 @@
+ticket_id,date,category,priority,status,resolution_time,customer_satisfaction,customer_email,agent_name
+1001,1/15/2024,Login Issues,High,Closed,2.5,4,customer1@email.com,Sarah Johnson
+1002,1/15/2024,Billing,Medium,Closed,4,3,customer2@email.com,Mike Chen
+1003,1/16/2024,Technical,Low,Open,,,,Tom Wilson
+1004,1/16/2024,Login Issues,High,Closed,1.5,5,customer4@email.com,Sarah Johnson
+1005,1/17/2024,Billing,Medium,Closed,6,2,customer5@email.com,Lisa Davis
+1006,1/17/2024,Technical,Medium,Closed,3.5,4,customer6@email.com,Tom Wilson
+1007,1/18/2024,Login Issues,Low,Closed,2,4,customer7@email.com,Mike Chen
+1008,1/18/2024,Feature Request,Low,Open,,,,Sarah Johnson
+1009,1/19/2024,Billing,High,Closed,8,1,customer9@email.com,Lisa Davis
+1010,1/19/2024,Technical,Medium,Closed,4.5,3,customer10@email.com,Tom Wilson
+1011,1/20/2024,Login Issues,Medium,Closed,3,4,customer11@email.com,Sarah Johnson
+1012,1/20/2024,Billing,Low,Closed,5.5,3,customer12@email.com,Mike Chen
+1013,1/21/2024,Technical,High,In Progress,,,customer13@email.com,Tom Wilson
+1014,1/21/2024,Feature Request,Low,Closed,12,4,customer14@email.com,Lisa Davis
+1015,1/22/2024,Login Issues,High,Closed,1,5,customer15@email.com,Sarah Johnson
+1016,1/22/2024,Billing,Medium,Closed,4.5,3,customer16@email.com,Mike Chen
+1017,1/23/2024,Technical,Low,Closed,6,4,customer17@email.com,Tom Wilson
+1018,1/23/2024,Login Issues,Medium,Open,,,,Sarah Johnson
+1019,1/24/2024,Billing,High,Closed,7.5,2,customer19@email.com,Lisa Davis
+1020,1/24/2024,Technical,Medium,Closed,3,5,customer20@email.com,Tom Wilson
+1021,1/25/2024,Feature Request,Low,Closed,15,3,customer21@email.com,Mike Chen
+1022,1/25/2024,Login Issues,High,Closed,2.5,4,customer22@email.com,Sarah Johnson
+1023,1/26/2024,Billing,Medium,Closed,5,3,customer23@email.com,Lisa Davis
+1024,1/26/2024,Technical,Low,Closed,4,4,customer24@email.com,Tom Wilson
+1025,1/27/2024,Login Issues,Medium,Closed,2,5,customer25@email.com,Sarah Johnson 
