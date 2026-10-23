@@ -1,0 +1,26 @@
+ticket_id,date,category,priority,status,resolution_time,customer_satisfaction,customer_email,agent_name
+1001,2024-01-15,Login Issues,High,Closed,2.5,4.0,customer1@email.com,Sarah Johnson
+1002,2024-01-15,Billing,Medium,Closed,4.0,3.0,customer2@email.com,Mike Chen
+1003,2024-01-16,Technical,Low,Open,,,,Tom Wilson
+1004,2024-01-16,Login Issues,High,Closed,1.5,5.0,customer4@email.com,Sarah Johnson
+1005,2024-01-17,Billing,Medium,Closed,6.0,2.0,customer5@email.com,Lisa Davis
+1006,2024-01-17,Technical,Medium,Closed,3.5,4.0,customer6@email.com,Tom Wilson
+1007,2024-01-18,Login Issues,Low,Closed,2.0,4.0,customer7@email.com,Mike Chen
+1008,2024-01-18,Feature Request,Low,Open,,,,Sarah Johnson
+1009,2024-01-19,Billing,High,Closed,8.0,1.0,customer9@email.com,Lisa Davis
+1010,2024-01-19,Technical,Medium,Closed,4.5,3.0,customer10@email.com,Tom Wilson
+1011,2024-01-20,Login Issues,Medium,Closed,3.0,4.0,customer11@email.com,Sarah Johnson
+1012,2024-01-20,Billing,Low,Closed,5.5,3.0,customer12@email.com,Mike Chen
+1013,2024-01-21,Technical,High,In Progress,,,customer13@email.com,Tom Wilson
+1014,2024-01-21,Feature Request,Low,Closed,12.0,4.0,customer14@email.com,Lisa Davis
+1015,2024-01-22,Login Issues,High,Closed,1.0,5.0,customer15@email.com,Sarah Johnson
+1016,2024-01-22,Billing,Medium,Closed,4.5,3.0,customer16@email.com,Mike Chen
+1017,2024-01-23,Technical,Low,Closed,6.0,4.0,customer17@email.com,Tom Wilson
+1018,2024-01-23,Login Issues,Medium,Open,,,,Sarah Johnson
+1019,2024-01-24,Billing,High,Closed,7.5,2.0,customer19@email.com,Lisa Davis
+1020,2024-01-24,Technical,Medium,Closed,3.0,5.0,customer20@email.com,Tom Wilson
+1021,2024-01-25,Feature Request,Low,Closed,15.0,3.0,customer21@email.com,Mike Chen
+1022,2024-01-25,Login Issues,High,Closed,2.5,4.0,customer22@email.com,Sarah Johnson
+1023,2024-01-26,Billing,Medium,Closed,5.0,3.0,customer23@email.com,Lisa Davis
+1024,2024-01-26,Technical,Low,Closed,4.0,4.0,customer24@email.com,Tom Wilson
+1025,2024-01-27,Login Issues,Medium,Closed,2.0,5.0,customer25@email.com,Sarah Johnson 
